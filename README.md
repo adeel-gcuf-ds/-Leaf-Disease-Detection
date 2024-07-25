@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/leaf-disease-detection.git
+    git clone https://github.com/adeel-gcuf-ds/leaf-disease-detection.git
     cd leaf-disease-detection
     ```
 
